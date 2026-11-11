@@ -1,0 +1,139 @@
+CSI Condition,SNR (dB),Selected Modulation,Spectral Efficiency (bits/s/Hz),Throughput (Mbps)
+Perfect CSI,18,OUTAGE,0.0,0.0
+Perfect CSI,19,OUTAGE,0.0,0.0
+Perfect CSI,20,OUTAGE,0.0,0.0
+Perfect CSI,21,OUTAGE,0.0,0.0
+Perfect CSI,22,OUTAGE,0.0,0.0
+Perfect CSI,23,OUTAGE,0.0,0.0
+Perfect CSI,24,OUTAGE,0.0,0.0
+Perfect CSI,25,QPSK,1.6,1.6
+Perfect CSI,26,QPSK,1.6,1.6
+Perfect CSI,27,QPSK,1.6,1.6
+Perfect CSI,28,16-QAM,3.2,3.2
+Perfect CSI,29,16-QAM,3.2,3.2
+Perfect CSI,30,16-QAM,3.2,3.2
+Perfect CSI,31,16-QAM,3.2,3.2
+Perfect CSI,32,16-QAM,3.2,3.2
+Perfect CSI,33,16-QAM,3.2,3.2
+Perfect CSI,34,16-QAM,3.2,3.2
+Perfect CSI,35,16-QAM,3.2,3.2
+Perfect CSI,36,16-QAM,3.2,3.2
+Perfect CSI,37,16-QAM,3.2,3.2
+Perfect CSI,38,16-QAM,3.2,3.2
+Perfect CSI,39,16-QAM,3.2,3.2
+Perfect CSI,40,16-QAM,3.2,3.2
+Very Accurate CSI,18,OUTAGE,0.0,0.0
+Very Accurate CSI,19,OUTAGE,0.0,0.0
+Very Accurate CSI,20,OUTAGE,0.0,0.0
+Very Accurate CSI,21,OUTAGE,0.0,0.0
+Very Accurate CSI,22,OUTAGE,0.0,0.0
+Very Accurate CSI,23,OUTAGE,0.0,0.0
+Very Accurate CSI,24,OUTAGE,0.0,0.0
+Very Accurate CSI,25,OUTAGE,0.0,0.0
+Very Accurate CSI,26,OUTAGE,0.0,0.0
+Very Accurate CSI,27,BPSK,0.8,0.8
+Very Accurate CSI,28,BPSK,0.8,0.8
+Very Accurate CSI,29,QPSK,1.6,1.6
+Very Accurate CSI,30,QPSK,1.6,1.6
+Very Accurate CSI,31,QPSK,1.6,1.6
+Very Accurate CSI,32,QPSK,1.6,1.6
+Very Accurate CSI,33,QPSK,1.6,1.6
+Very Accurate CSI,34,QPSK,1.6,1.6
+Very Accurate CSI,35,QPSK,1.6,1.6
+Very Accurate CSI,36,QPSK,1.6,1.6
+Very Accurate CSI,37,QPSK,1.6,1.6
+Very Accurate CSI,38,QPSK,1.6,1.6
+Very Accurate CSI,39,QPSK,1.6,1.6
+Very Accurate CSI,40,QPSK,1.6,1.6
+Accurate CSI,18,OUTAGE,0.0,0.0
+Accurate CSI,19,OUTAGE,0.0,0.0
+Accurate CSI,20,OUTAGE,0.0,0.0
+Accurate CSI,21,OUTAGE,0.0,0.0
+Accurate CSI,22,OUTAGE,0.0,0.0
+Accurate CSI,23,OUTAGE,0.0,0.0
+Accurate CSI,24,OUTAGE,0.0,0.0
+Accurate CSI,25,OUTAGE,0.0,0.0
+Accurate CSI,26,OUTAGE,0.0,0.0
+Accurate CSI,27,OUTAGE,0.0,0.0
+Accurate CSI,28,OUTAGE,0.0,0.0
+Accurate CSI,29,OUTAGE,0.0,0.0
+Accurate CSI,30,OUTAGE,0.0,0.0
+Accurate CSI,31,OUTAGE,0.0,0.0
+Accurate CSI,32,OUTAGE,0.0,0.0
+Accurate CSI,33,OUTAGE,0.0,0.0
+Accurate CSI,34,OUTAGE,0.0,0.0
+Accurate CSI,35,OUTAGE,0.0,0.0
+Accurate CSI,36,OUTAGE,0.0,0.0
+Accurate CSI,37,OUTAGE,0.0,0.0
+Accurate CSI,38,OUTAGE,0.0,0.0
+Accurate CSI,39,OUTAGE,0.0,0.0
+Accurate CSI,40,OUTAGE,0.0,0.0
+Moderate CSI,18,OUTAGE,0.0,0.0
+Moderate CSI,19,OUTAGE,0.0,0.0
+Moderate CSI,20,OUTAGE,0.0,0.0
+Moderate CSI,21,OUTAGE,0.0,0.0
+Moderate CSI,22,OUTAGE,0.0,0.0
+Moderate CSI,23,OUTAGE,0.0,0.0
+Moderate CSI,24,OUTAGE,0.0,0.0
+Moderate CSI,25,OUTAGE,0.0,0.0
+Moderate CSI,26,OUTAGE,0.0,0.0
+Moderate CSI,27,OUTAGE,0.0,0.0
+Moderate CSI,28,OUTAGE,0.0,0.0
+Moderate CSI,29,OUTAGE,0.0,0.0
+Moderate CSI,30,OUTAGE,0.0,0.0
+Moderate CSI,31,OUTAGE,0.0,0.0
+Moderate CSI,32,OUTAGE,0.0,0.0
+Moderate CSI,33,OUTAGE,0.0,0.0
+Moderate CSI,34,OUTAGE,0.0,0.0
+Moderate CSI,35,OUTAGE,0.0,0.0
+Moderate CSI,36,OUTAGE,0.0,0.0
+Moderate CSI,37,OUTAGE,0.0,0.0
+Moderate CSI,38,OUTAGE,0.0,0.0
+Moderate CSI,39,OUTAGE,0.0,0.0
+Moderate CSI,40,OUTAGE,0.0,0.0
+Poor CSI,18,OUTAGE,0.0,0.0
+Poor CSI,19,OUTAGE,0.0,0.0
+Poor CSI,20,OUTAGE,0.0,0.0
+Poor CSI,21,OUTAGE,0.0,0.0
+Poor CSI,22,OUTAGE,0.0,0.0
+Poor CSI,23,OUTAGE,0.0,0.0
+Poor CSI,24,OUTAGE,0.0,0.0
+Poor CSI,25,OUTAGE,0.0,0.0
+Poor CSI,26,OUTAGE,0.0,0.0
+Poor CSI,27,OUTAGE,0.0,0.0
+Poor CSI,28,OUTAGE,0.0,0.0
+Poor CSI,29,OUTAGE,0.0,0.0
+Poor CSI,30,OUTAGE,0.0,0.0
+Poor CSI,31,OUTAGE,0.0,0.0
+Poor CSI,32,OUTAGE,0.0,0.0
+Poor CSI,33,OUTAGE,0.0,0.0
+Poor CSI,34,OUTAGE,0.0,0.0
+Poor CSI,35,OUTAGE,0.0,0.0
+Poor CSI,36,OUTAGE,0.0,0.0
+Poor CSI,37,OUTAGE,0.0,0.0
+Poor CSI,38,OUTAGE,0.0,0.0
+Poor CSI,39,OUTAGE,0.0,0.0
+Poor CSI,40,OUTAGE,0.0,0.0
+Very Poor CSI,18,OUTAGE,0.0,0.0
+Very Poor CSI,19,OUTAGE,0.0,0.0
+Very Poor CSI,20,OUTAGE,0.0,0.0
+Very Poor CSI,21,OUTAGE,0.0,0.0
+Very Poor CSI,22,OUTAGE,0.0,0.0
+Very Poor CSI,23,OUTAGE,0.0,0.0
+Very Poor CSI,24,OUTAGE,0.0,0.0
+Very Poor CSI,25,OUTAGE,0.0,0.0
+Very Poor CSI,26,OUTAGE,0.0,0.0
+Very Poor CSI,27,OUTAGE,0.0,0.0
+Very Poor CSI,28,OUTAGE,0.0,0.0
+Very Poor CSI,29,OUTAGE,0.0,0.0
+Very Poor CSI,30,OUTAGE,0.0,0.0
+Very Poor CSI,31,OUTAGE,0.0,0.0
+Very Poor CSI,32,OUTAGE,0.0,0.0
+Very Poor CSI,33,OUTAGE,0.0,0.0
+Very Poor CSI,34,OUTAGE,0.0,0.0
+Very Poor CSI,35,OUTAGE,0.0,0.0
+Very Poor CSI,36,OUTAGE,0.0,0.0
+Very Poor CSI,37,OUTAGE,0.0,0.0
+Very Poor CSI,38,OUTAGE,0.0,0.0
+Very Poor CSI,39,OUTAGE,0.0,0.0
+Very Poor CSI,40,OUTAGE,0.0,0.0

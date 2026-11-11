@@ -1,0 +1,13 @@
+Pilot Length,Modulation,Initial Threshold (dB)
+4,BPSK,19.5
+4,QPSK,22.5
+4,16-QAM,27.5
+8,BPSK,21.5
+8,QPSK,21.5
+8,16-QAM,27.5
+16,BPSK,21.5
+16,QPSK,23.5
+16,16-QAM,24.5
+32,BPSK,21.5
+32,QPSK,24.5
+32,16-QAM,28.5

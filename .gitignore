@@ -1,0 +1,25 @@
+﻿# Python temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Credentials and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+.ipynb_checkpoints/

@@ -1,0 +1,19 @@
+CSI Condition,Error Variance,Modulation,Initial Threshold (dB)
+Perfect CSI,0.0,BPSK,25.5
+Perfect CSI,0.0,QPSK,24.5
+Perfect CSI,0.0,16-QAM,27.5
+Very Accurate CSI,0.001,BPSK,26.5
+Very Accurate CSI,0.001,QPSK,28.5
+Very Accurate CSI,0.001,16-QAM,
+Accurate CSI,0.005,BPSK,
+Accurate CSI,0.005,QPSK,
+Accurate CSI,0.005,16-QAM,
+Moderate CSI,0.01,BPSK,
+Moderate CSI,0.01,QPSK,
+Moderate CSI,0.01,16-QAM,
+Poor CSI,0.02,BPSK,
+Poor CSI,0.02,QPSK,
+Poor CSI,0.02,16-QAM,
+Very Poor CSI,0.05,BPSK,
+Very Poor CSI,0.05,QPSK,
+Very Poor CSI,0.05,16-QAM,

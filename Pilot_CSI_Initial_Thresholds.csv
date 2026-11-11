@@ -1,0 +1,7 @@
+CSI Condition,Modulation,Initial Threshold
+Perfect CSI,BPSK,24.5
+Perfect CSI,QPSK,25.5
+Perfect CSI,16-QAM,27.5
+Pilot-Based LS CSI,BPSK,24.5
+Pilot-Based LS CSI,QPSK,25.5
+Pilot-Based LS CSI,16-QAM,27.5

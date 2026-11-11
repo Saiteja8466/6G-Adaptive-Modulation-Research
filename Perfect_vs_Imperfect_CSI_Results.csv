@@ -1,0 +1,136 @@
+Modulation,SNR (dB),CSI Condition,BER,Bit Errors,Total Bits,Target BER Met
+BPSK,18,Perfect CSI,0.00399,399,100000,False
+BPSK,18,Imperfect CSI - Low Error,0.00649,649,100000,False
+BPSK,18,Imperfect CSI - Higher Error,0.01569,1569,100000,False
+BPSK,19,Perfect CSI,0.00295,295,100000,False
+BPSK,19,Imperfect CSI - Low Error,0.00561,561,100000,False
+BPSK,19,Imperfect CSI - Higher Error,0.0148,1480,100000,False
+BPSK,20,Perfect CSI,0.00236,236,100000,False
+BPSK,20,Imperfect CSI - Low Error,0.00465,465,100000,False
+BPSK,20,Imperfect CSI - Higher Error,0.01443,1443,100000,False
+BPSK,21,Perfect CSI,0.00194,194,100000,False
+BPSK,21,Imperfect CSI - Low Error,0.00435,435,100000,False
+BPSK,21,Imperfect CSI - Higher Error,0.01397,1397,100000,False
+BPSK,22,Perfect CSI,0.00136,136,100000,False
+BPSK,22,Imperfect CSI - Low Error,0.00401,401,100000,False
+BPSK,22,Imperfect CSI - Higher Error,0.01379,1379,100000,False
+BPSK,23,Perfect CSI,0.00123,123,100000,False
+BPSK,23,Imperfect CSI - Low Error,0.00375,375,100000,False
+BPSK,23,Imperfect CSI - Higher Error,0.01359,1359,100000,False
+BPSK,24,Perfect CSI,0.0009,90,100000,True
+BPSK,24,Imperfect CSI - Low Error,0.0034,340,100000,False
+BPSK,24,Imperfect CSI - Higher Error,0.01276,1276,100000,False
+BPSK,25,Perfect CSI,0.00079,79,100000,True
+BPSK,25,Imperfect CSI - Low Error,0.00334,334,100000,False
+BPSK,25,Imperfect CSI - Higher Error,0.01253,1253,100000,False
+BPSK,26,Perfect CSI,0.00072,72,100000,True
+BPSK,26,Imperfect CSI - Low Error,0.00313,313,100000,False
+BPSK,26,Imperfect CSI - Higher Error,0.01286,1286,100000,False
+BPSK,27,Perfect CSI,0.00051,51,100000,True
+BPSK,27,Imperfect CSI - Low Error,0.00259,259,100000,False
+BPSK,27,Imperfect CSI - Higher Error,0.01237,1237,100000,False
+BPSK,28,Perfect CSI,0.00048,48,100000,True
+BPSK,28,Imperfect CSI - Low Error,0.00299,299,100000,False
+BPSK,28,Imperfect CSI - Higher Error,0.01291,1291,100000,False
+BPSK,29,Perfect CSI,0.00034,34,100000,True
+BPSK,29,Imperfect CSI - Low Error,0.00284,284,100000,False
+BPSK,29,Imperfect CSI - Higher Error,0.01219,1219,100000,False
+BPSK,30,Perfect CSI,0.00031,31,100000,True
+BPSK,30,Imperfect CSI - Low Error,0.00271,271,100000,False
+BPSK,30,Imperfect CSI - Higher Error,0.01212,1212,100000,False
+BPSK,31,Perfect CSI,0.00019,19,100000,True
+BPSK,31,Imperfect CSI - Low Error,0.00262,262,100000,False
+BPSK,31,Imperfect CSI - Higher Error,0.01189,1189,100000,False
+BPSK,32,Perfect CSI,0.00011,11,100000,True
+BPSK,32,Imperfect CSI - Low Error,0.00253,253,100000,False
+BPSK,32,Imperfect CSI - Higher Error,0.0122,1220,100000,False
+QPSK,18,Perfect CSI,0.004015,803,200000,False
+QPSK,18,Imperfect CSI - Low Error,0.008695,1739,200000,False
+QPSK,18,Imperfect CSI - Higher Error,0.027145,5429,200000,False
+QPSK,19,Perfect CSI,0.002975,595,200000,False
+QPSK,19,Imperfect CSI - Low Error,0.008015,1603,200000,False
+QPSK,19,Imperfect CSI - Higher Error,0.026495,5299,200000,False
+QPSK,20,Perfect CSI,0.00226,452,200000,False
+QPSK,20,Imperfect CSI - Low Error,0.00717,1434,200000,False
+QPSK,20,Imperfect CSI - Higher Error,0.024845,4969,200000,False
+QPSK,21,Perfect CSI,0.00195,390,200000,False
+QPSK,21,Imperfect CSI - Low Error,0.006815,1363,200000,False
+QPSK,21,Imperfect CSI - Higher Error,0.025215,5043,200000,False
+QPSK,22,Perfect CSI,0.001475,295,200000,False
+QPSK,22,Imperfect CSI - Low Error,0.00644,1288,200000,False
+QPSK,22,Imperfect CSI - Higher Error,0.02501,5002,200000,False
+QPSK,23,Perfect CSI,0.001285,257,200000,False
+QPSK,23,Imperfect CSI - Low Error,0.00633,1266,200000,False
+QPSK,23,Imperfect CSI - Higher Error,0.025185,5037,200000,False
+QPSK,24,Perfect CSI,0.001135,227,200000,False
+QPSK,24,Imperfect CSI - Low Error,0.006205,1241,200000,False
+QPSK,24,Imperfect CSI - Higher Error,0.024285,4857,200000,False
+QPSK,25,Perfect CSI,0.00091,182,200000,True
+QPSK,25,Imperfect CSI - Low Error,0.005485,1097,200000,False
+QPSK,25,Imperfect CSI - Higher Error,0.024175,4835,200000,False
+QPSK,26,Perfect CSI,0.000615,123,200000,True
+QPSK,26,Imperfect CSI - Low Error,0.005415,1083,200000,False
+QPSK,26,Imperfect CSI - Higher Error,0.023275,4655,200000,False
+QPSK,27,Perfect CSI,0.000515,103,200000,True
+QPSK,27,Imperfect CSI - Low Error,0.005435,1087,200000,False
+QPSK,27,Imperfect CSI - Higher Error,0.024095,4819,200000,False
+QPSK,28,Perfect CSI,0.000305,61,200000,True
+QPSK,28,Imperfect CSI - Low Error,0.00527,1054,200000,False
+QPSK,28,Imperfect CSI - Higher Error,0.023665,4733,200000,False
+QPSK,29,Perfect CSI,0.000275,55,200000,True
+QPSK,29,Imperfect CSI - Low Error,0.0051,1020,200000,False
+QPSK,29,Imperfect CSI - Higher Error,0.02328,4656,200000,False
+QPSK,30,Perfect CSI,0.000285,57,200000,True
+QPSK,30,Imperfect CSI - Low Error,0.005265,1053,200000,False
+QPSK,30,Imperfect CSI - Higher Error,0.02321,4642,200000,False
+QPSK,31,Perfect CSI,0.00021,42,200000,True
+QPSK,31,Imperfect CSI - Low Error,0.00504,1008,200000,False
+QPSK,31,Imperfect CSI - Higher Error,0.023315,4663,200000,False
+QPSK,32,Perfect CSI,0.00012,24,200000,True
+QPSK,32,Imperfect CSI - Low Error,0.005065,1013,200000,False
+QPSK,32,Imperfect CSI - Higher Error,0.022955,4591,200000,False
+16-QAM,18,Perfect CSI,0.007395,2958,400000,False
+16-QAM,18,Imperfect CSI - Low Error,0.0228925,9157,400000,False
+16-QAM,18,Imperfect CSI - Higher Error,0.06901,27604,400000,False
+16-QAM,19,Perfect CSI,0.0061575,2463,400000,False
+16-QAM,19,Imperfect CSI - Low Error,0.021795,8718,400000,False
+16-QAM,19,Imperfect CSI - Higher Error,0.06911,27644,400000,False
+16-QAM,20,Perfect CSI,0.00479,1916,400000,False
+16-QAM,20,Imperfect CSI - Low Error,0.020505,8202,400000,False
+16-QAM,20,Imperfect CSI - Higher Error,0.0677175,27087,400000,False
+16-QAM,21,Perfect CSI,0.00396,1584,400000,False
+16-QAM,21,Imperfect CSI - Low Error,0.020275,8110,400000,False
+16-QAM,21,Imperfect CSI - Higher Error,0.0673825,26953,400000,False
+16-QAM,22,Perfect CSI,0.002985,1194,400000,False
+16-QAM,22,Imperfect CSI - Low Error,0.01885,7540,400000,False
+16-QAM,22,Imperfect CSI - Higher Error,0.06622,26488,400000,False
+16-QAM,23,Perfect CSI,0.0025375,1015,400000,False
+16-QAM,23,Imperfect CSI - Low Error,0.0180925,7237,400000,False
+16-QAM,23,Imperfect CSI - Higher Error,0.0666975,26679,400000,False
+16-QAM,24,Perfect CSI,0.001845,738,400000,False
+16-QAM,24,Imperfect CSI - Low Error,0.01792,7168,400000,False
+16-QAM,24,Imperfect CSI - Higher Error,0.0662675,26507,400000,False
+16-QAM,25,Perfect CSI,0.001535,614,400000,False
+16-QAM,25,Imperfect CSI - Low Error,0.0175425,7017,400000,False
+16-QAM,25,Imperfect CSI - Higher Error,0.065805,26322,400000,False
+16-QAM,26,Perfect CSI,0.0013575,543,400000,False
+16-QAM,26,Imperfect CSI - Low Error,0.0172475,6899,400000,False
+16-QAM,26,Imperfect CSI - Higher Error,0.064805,25922,400000,False
+16-QAM,27,Perfect CSI,0.0009175,367,400000,True
+16-QAM,27,Imperfect CSI - Low Error,0.0168,6720,400000,False
+16-QAM,27,Imperfect CSI - Higher Error,0.0649825,25993,400000,False
+16-QAM,28,Perfect CSI,0.000735,294,400000,True
+16-QAM,28,Imperfect CSI - Low Error,0.016475,6590,400000,False
+16-QAM,28,Imperfect CSI - Higher Error,0.0649075,25963,400000,False
+16-QAM,29,Perfect CSI,0.0005975,239,400000,True
+16-QAM,29,Imperfect CSI - Low Error,0.01658,6632,400000,False
+16-QAM,29,Imperfect CSI - Higher Error,0.0649325,25973,400000,False
+16-QAM,30,Perfect CSI,0.0005,200,400000,True
+16-QAM,30,Imperfect CSI - Low Error,0.0166225,6649,400000,False
+16-QAM,30,Imperfect CSI - Higher Error,0.06527,26108,400000,False
+16-QAM,31,Perfect CSI,0.0004375,175,400000,True
+16-QAM,31,Imperfect CSI - Low Error,0.0162575,6503,400000,False
+16-QAM,31,Imperfect CSI - Higher Error,0.064385,25754,400000,False
+16-QAM,32,Perfect CSI,0.0003275,131,400000,True
+16-QAM,32,Imperfect CSI - Low Error,0.016375,6550,400000,False
+16-QAM,32,Imperfect CSI - Higher Error,0.0645125,25805,400000,False
